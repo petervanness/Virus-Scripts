@@ -16,7 +16,7 @@ state_bridge = pd.read_csv('https://raw.githubusercontent.com/jasonong/List-of-U
 ma_days = 7
 
 #-------------------Define Cohorts-----------------------------------------------:
-# (these are roughly chronologically ordered batches of states, based on when the first wave of the virs occurred in each state)
+# (these are roughly chronologically ordered batches of states, based on when the first wave of the virus occurred in each state)
 # can be switched around easily to make any desired comparisons, including single states
 cohort1_list = ['New York','New Jersey','Rhode Island','Massachusetts','Connecticut','Delaware','Pennsylvania','District of Columbia','Michigan']
 cohort2_list = ['Florida','Arizona','California','Texas','Alabama','South Carolina','Idaho','Nevada']
