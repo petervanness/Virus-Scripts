@@ -7,3 +7,6 @@ the Covid Tracking Project (which ceased data collection on March 7, 2021, and I
 
 As currently configured, the program sums each of those virus metrics and total population by group of states, and then shows 7-day moving average percent of population trends.
 I could go with the per 100,000 easily enough, but percent of population is easier for me to think about in certain ways.
+
+
+dc_data_download.py pulls the latest covid data from the District of Columbia and processes tests and hospitalizations into long form.
